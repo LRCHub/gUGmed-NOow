@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "蛍はいなかった（feat.初音ミク）",
+  "base_artist": "はるまきごはん",
+  "createdAt": "2026-02-13T20:39:49.077330Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "蛍はいなかった (Self Cover)",
+      "artist": "はるまきごはん",
+      "has_synced": false,
+      "path": "select/pl_01_蛍はいなかった_(Self_Cover)_はるまきごはん.txt"
+    }
+  ]
+}
